@@ -1,0 +1,11 @@
+addon/engine/runtime/
+addon/engine/vendor/
+addon/engine/*.bin
+addon/engine/*.exe
+addon/engine/*.dll
+package-check/
+dist/
+validation-samples/
+test-tmp*/
+__pycache__/
+*.pyc
